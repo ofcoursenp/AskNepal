@@ -1,0 +1,545 @@
+{
+  "cities": [
+    {
+      "name": "Biratnagar",
+      "latitude": 26.452,
+      "longitude": 87.271,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 77,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 73.728,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "BhatBhateni Biratnagar",
+          "latitude": 26.4595,
+          "longitude": 87.2779
+        },
+        {
+          "name": "Biratnagar Airport",
+          "latitude": 26.483777,
+          "longitude": 87.266149
+        },
+        {
+          "name": "Biratnagar Jute Mill",
+          "latitude": 26.4103,
+          "longitude": 87.265
+        },
+        {
+          "name": "Gopal Fun Park",
+          "latitude": 26.460368,
+          "longitude": 87.307617
+        },
+        {
+          "name": "Ramjanki Mandir Biratnagar Nepal",
+          "latitude": 26.45568,
+          "longitude": 87.28169
+        }
+      ]
+    },
+    {
+      "name": "Birtamod",
+      "latitude": 26.6293,
+      "longitude": 87.9825,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 78.24,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 300,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Heaven Water Park",
+          "latitude": 26.63947,
+          "longitude": 87.9306854
+        },
+        {
+          "name": "Bhatbhateni Birtamode",
+          "latitude": 26.6365878,
+          "longitude": 87.9709011
+        },
+        {
+          "name": "Birtamode City Center",
+          "latitude": 26.6346416,
+          "longitude": 87.9885769
+        },
+        {
+          "name": "Hanuman Central",
+          "latitude": 26.642373,
+          "longitude": 87.9916113
+        },
+        {
+          "name": "NIM Birtamode Church",
+          "latitude": 26.6362,
+          "longitude": 87.9827
+        }
+      ]
+    },
+    {
+      "name": "Damak",
+      "latitude": 26.617,
+      "longitude": 87.668,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 75.74,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 71,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Damak View Tower",
+          "latitude": 26.6882791,
+          "longitude": 87.6603925
+        },
+        {
+          "name": "Indreni Lake",
+          "latitude": 26.6117643,
+          "longitude": 87.6547334
+        },
+        {
+          "name": "Damak Fun Park",
+          "latitude": 26.6539691,
+          "longitude": 87.603649
+        },
+        {
+          "name": "Himalaya Mahalaxmi Tea Garden",
+          "latitude": 26.6539691,
+          "longitude": 87.603649
+        },
+        {
+          "name": "New Amda Hosiptal",
+          "latitude": 26.675565003247996,
+          "longitude": 87.6884020887845
+        }
+      ]
+    },
+    {
+      "name": "Hetauda",
+      "latitude": 27.4368,
+      "longitude": 85.0026,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 261.6,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 345,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Banaskhandi Temple",
+          "latitude": 27.437190963806927,
+          "longitude": 85.04205448270629
+        },
+        {
+          "name": "BhatBhateni Super Market",
+          "latitude": 27.439900177184892,
+          "longitude": 85.03498526717914
+        },
+        {
+          "name": "Bhutandevi Temple",
+          "latitude": 27.42450543406979,
+          "longitude": 85.02325572983939
+        },
+        {
+          "name": "Manakamana Temple",
+          "latitude": 27.433405350575548,
+          "longitude": 85.05587456847738
+        },
+        {
+          "name": "NS Cinemas, Narayani Mall",
+          "latitude": 27.427136885640714,
+          "longitude": 85.03170570341877
+        },
+        {
+          "name": "Pashupati Temple",
+          "latitude": 27.419794718361427,
+          "longitude": 85.03397451766915
+        },
+        {
+          "name": "Pathivara Devi Temple",
+          "latitude": 27.438696804080667,
+          "longitude": 85.01841066174444
+        },
+        {
+          "name": "Puspalal Smriti Peace Park",
+          "latitude": 27.42823516741742,
+          "longitude": 85.0387274237418
+        },
+        {
+          "name": "Shahid Smarak",
+          "latitude": 27.44627689537009,
+          "longitude": 85.00030762298556
+        },
+        {
+          "name": "Triveni Dham",
+          "latitude": 27.422242836584616,
+          "longitude": 85.01184103300047
+        }
+      ]
+    },
+    {
+      "name": "Kathmandu",
+      "latitude": 27.7172,
+      "longitude": 85.324,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 49.45,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 1400,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Swayambhunath (Monkey Temple)",
+          "latitude": 27.7149,
+          "longitude": 85.2904
+        },
+        {
+          "name": "Pashupatinath Temple",
+          "latitude": 27.7105,
+          "longitude": 85.3488
+        },
+        {
+          "name": "Boudhanath Stupa",
+          "latitude": 27.7215,
+          "longitude": 85.362
+        },
+        {
+          "name": "Kathmandu Durbar Square",
+          "latitude": 27.7043,
+          "longitude": 85.3075
+        },
+        {
+          "name": "Narayanhiti Palace Museum",
+          "latitude": 27.715,
+          "longitude": 85.3183
+        }
+      ]
+    },
+    {
+      "name": "Lalitpur",
+      "latitude": 27.6588,
+      "longitude": 85.3247,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 37.4,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 1350,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Patan Durbar Square",
+          "longitude": 27.6727,
+          "latitude": 85.3253
+        },
+        {
+          "name": "Central Zoo",
+          "longitude": 27.6727,
+          "latitude": 85.3118
+        },
+        {
+          "name": "Rudra Varna Mahavihar",
+          "longitude": 27.6681,
+          "latitude": 85.3271
+        },
+        {
+          "name": "Labim Mall",
+          "longitude": 27.6771,
+          "latitude": 85.3171
+        },
+        {
+          "name": "Hiranya Varna Mahavihar",
+          "longitude": 27.6752,
+          "latitude": 85.3245
+        },
+        {
+          "name": "Mahabuddha temple",
+          "longitude": 27.6689,
+          "latitude": 85.3273
+        }
+      ]
+    },
+    {
+      "name": "Nepalgunj",
+      "latitude": 28.05,
+      "longitude": 81.61667,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 85.94,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 150,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "BhatBhateni Nepalgunj",
+          "latitude": 28.0888,
+          "longitude": 81.6483
+        },
+        {
+          "name": "Nepalgunj Airport",
+          "latitude": 28.1011,
+          "longitude": 81.6673
+        },
+        {
+          "name": "Happy World Nepalgunj",
+          "latitude": 28.1506,
+          "longitude": 81.6649
+        },
+        {
+          "name": "Bageswari Temple",
+          "latitude": 28.069591825,
+          "longitude": 81.6250392738
+        },
+        {
+          "name": "Mahendra Park",
+          "latitude": 28.0554,
+          "longitude": 81.6233
+        }
+      ]
+    },
+    {
+      "name": "Pokhara",
+      "latitude": 28.2096,
+      "longitude": 83.9856,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 464.24,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 822,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Buddhist Monastery",
+          "latitude": 28.25748,
+          "longitude": 83.96103
+        },
+        {
+          "name": "Begnas Lake",
+          "latitude": 28.1739,
+          "longitude": 84.0973
+        },
+        {
+          "name": "Fewa Lake",
+          "latitude": 28.2154,
+          "longitude": 83.9453
+        },
+        {
+          "name": "Mahendra Cave",
+          "latitude": 28.2717,
+          "longitude": 83.9795
+        },
+        {
+          "name": "Seti George",
+          "latitude": 28.2454,
+          "longitude": 83.9893
+        },
+        {
+          "name": "World peace Pagoda",
+          "latitude": 28.2009901,
+          "longitude": 83.9447793
+        }
+      ]
+    },
+    {
+      "name": "Siddharthanagar",
+      "latitude": 27.5065,
+      "longitude": 83.4377,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 36.03,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 109,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Hotel Pauwa",
+          "latitude": 27.51,
+          "longitude": 83.4422
+        },
+        {
+          "name": "Tiger Palace Resort",
+          "latitude": 27.5688,
+          "longitude": 83.4561
+        },
+        {
+          "name": "Gautam Buddha International Airport",
+          "latitude": 27.506,
+          "longitude": 83.4175
+        },
+        {
+          "name": "Bhairahawa Buspark",
+          "latitude": 27.5005,
+          "longitude": 83.4592
+        },
+        {
+          "name": "Lumbini Gate",
+          "latitude": 27.5064,
+          "longitude": 83.4536
+        }
+      ]
+    },
+    {
+      "name": "Syangja",
+      "latitude": 28.0197,
+      "longitude": 83.8049,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 1164,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 2266,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Kaligandaki A Hydroelectric Power Station",
+          "latitude": 27.9791,
+          "longitude": 83.5804
+        },
+        {
+          "name": "Sirubari Homestay",
+          "latitude": 28.1311,
+          "longitude": 83.7597
+        },
+        {
+          "name": "Sworek Maidan",
+          "latitude": 28.0248,
+          "longitude": 83.7354
+        },
+        {
+          "name": "Alamdevi Temple",
+          "latitude": 27.953728,
+          "longitude": 83.512351
+        },
+        {
+          "name": "Syangja District Hospital",
+          "longitude": 28.105306785619266,
+          "latitude": 83.87393015924836
+        }
+      ]
+    },
+    {
+      "name": "Urlabari",
+      "latitude": 26.6649,
+      "longitude": 87.6137,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 74.62,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 116,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Madan Bhandari Memorial Academy Nepal",
+          "latitude": 26.6619663,
+          "longitude": 87.5849092
+        },
+        {
+          "name": "Everest Fun Park & Resort Pvt. Ltd.",
+          "latitude": 26.6431722,
+          "longitude": 87.6181256
+        },
+        {
+          "name": "Urlabari Multiple Campus",
+          "longitude": 26.6651,
+          "latitude": 87.62
+        },
+        {
+          "name": "Madan Bhandari Hospital & Trauma Center",
+          "longitude": 26.6659477595102,
+          "latitude": 87.60336464529681
+        },
+        {
+          "name": "Urlabari Chowk",
+          "longitude": 26.6654519244919,
+          "latitude": 87.63793817236878
+        }
+      ]
+    }
+  ]
+}
